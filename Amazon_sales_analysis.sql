@@ -2,6 +2,10 @@
 -- AMAZON SALES DATA ANALYSIS
 -- SQL Project using MySQL
 -- =========================================
+
+-- ==================================
+--SCHEMA OF THE DATABASE & TABLE--
+-- ==================================
 Create database if not exists amazon_sales_analysis;
 use amazon_sales_analysis;
 create table if not exists amazon_sales (
